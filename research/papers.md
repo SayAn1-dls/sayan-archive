@@ -1,2 +1,3 @@
 # papers.md
 - [2026-01-02 016] practice: binary search tree problems
+- [2026-01-05 016] practice: binary search tree problems
