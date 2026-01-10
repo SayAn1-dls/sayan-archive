@@ -9,3 +9,4 @@
 - [2026-01-05 042] refactor: clean up ML pipeline code
 - [2026-01-06 002] fix: resolve edge case in data pipeline
 - [2026-01-08 002] fix: resolve edge case in data pipeline
+- [2026-01-10 002] fix: resolve edge case in data pipeline
