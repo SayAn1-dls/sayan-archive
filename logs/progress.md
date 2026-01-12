@@ -15,3 +15,4 @@
 - [2026-01-10 021] fix: race condition in async queue
 - [2026-01-10 041] practice: binary search tree problems
 - [2026-01-11 001] feat: implement core detection module
+- [2026-01-12 001] feat: implement core detection module
