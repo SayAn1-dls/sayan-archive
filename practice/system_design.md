@@ -7,3 +7,4 @@
 - [2026-01-10 011] journal: daily progress log
 - [2026-01-10 031] study: notes on backpropagation
 - [2026-01-11 011] journal: daily progress log
+- [2026-01-12 011] journal: daily progress log
