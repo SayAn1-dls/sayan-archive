@@ -14,3 +14,4 @@
 - [2026-01-10 043] feat: add rate limiting middleware
 - [2026-01-11 003] docs: update architecture notes
 - [2026-01-12 003] docs: update architecture notes
+- [2026-01-13 003] docs: update architecture notes
