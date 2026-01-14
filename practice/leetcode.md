@@ -10,3 +10,4 @@
 - [2026-01-11 010] research: links on transformer attention
 - [2026-01-12 010] research: links on transformer attention
 - [2026-01-13 010] research: links on transformer attention
+- [2026-01-14 010] research: links on transformer attention
