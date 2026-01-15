@@ -13,3 +13,4 @@
 - [2026-01-12 009] chore: update config and env schema
 - [2026-01-13 009] chore: update config and env schema
 - [2026-01-14 009] chore: update config and env schema
+- [2026-01-15 009] chore: update config and env schema
