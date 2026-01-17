@@ -7,3 +7,4 @@
 - [2026-01-13 016] practice: binary search tree problems
 - [2026-01-14 016] practice: binary search tree problems
 - [2026-01-15 016] practice: binary search tree problems
+- [2026-01-17 016] practice: binary search tree problems
