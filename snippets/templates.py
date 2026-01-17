@@ -10,3 +10,4 @@
 - [2026-01-17 020] study: embedded systems interrupt handling
 - [2026-01-17 040] study: quantum entanglement chapter notes
 - [2026-01-17 060] research: links on transformer attention
+- [2026-01-17 080] test: add unit tests for parser
