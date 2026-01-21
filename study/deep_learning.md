@@ -25,3 +25,4 @@
 - [2026-01-17 087] fix: handle null pointer in validator
 - [2026-01-18 007] practice: solved two-sum variants
 - [2026-01-20 007] practice: solved two-sum variants
+- [2026-01-21 007] practice: solved two-sum variants
