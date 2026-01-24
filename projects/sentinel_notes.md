@@ -17,3 +17,4 @@
 - [2026-01-17 092] refactor: clean up ML pipeline code
 - [2026-01-21 012] fix: handle null pointer in validator
 - [2026-01-21 032] practice: solved two-sum variants
+- [2026-01-24 012] fix: handle null pointer in validator
