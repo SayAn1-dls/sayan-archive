@@ -28,3 +28,4 @@
 - [2026-01-24 049] research: game theory Nash equilibrium notes
 - [2026-01-24 069] docs: update deployment guide
 - [2026-01-25 009] chore: update config and env schema
+- [2026-01-25 029] refactor: extract utility functions
