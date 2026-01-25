@@ -27,3 +27,4 @@
 - [2026-01-24 070] study: embedded systems interrupt handling
 - [2026-01-25 010] research: links on transformer attention
 - [2026-01-25 030] test: add unit tests for parser
+- [2026-01-25 050] practice: dynamic programming patterns
