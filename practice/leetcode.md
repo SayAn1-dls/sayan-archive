@@ -33,3 +33,4 @@
 - [2026-01-29 030] test: add unit tests for parser
 - [2026-01-29 050] practice: dynamic programming patterns
 - [2026-01-29 070] study: embedded systems interrupt handling
+- [2026-01-29 090] study: quantum entanglement chapter notes
