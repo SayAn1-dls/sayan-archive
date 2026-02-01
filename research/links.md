@@ -27,3 +27,4 @@
 - [2026-01-29 077] fix: resolve edge case in data pipeline
 - [2026-01-29 097] feat: add encryption to data store
 - [2026-01-31 017] refactor: clean up ML pipeline code
+- [2026-02-01 017] refactor: clean up ML pipeline code
