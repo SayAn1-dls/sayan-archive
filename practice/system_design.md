@@ -33,3 +33,4 @@
 - [2026-01-29 071] fix: race condition in async queue
 - [2026-01-29 091] practice: binary search tree problems
 - [2026-01-31 011] journal: daily progress log
+- [2026-02-01 011] journal: daily progress log
