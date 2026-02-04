@@ -26,3 +26,4 @@
 - [2026-01-29 059] chore: update config and env schema
 - [2026-01-29 079] refactor: extract utility functions
 - [2026-02-01 019] docs: update deployment guide
+- [2026-02-04 019] docs: update deployment guide
