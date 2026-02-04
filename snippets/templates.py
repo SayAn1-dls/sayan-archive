@@ -26,3 +26,4 @@
 - [2026-01-29 060] research: links on transformer attention
 - [2026-01-29 080] test: add unit tests for parser
 - [2026-02-01 020] study: embedded systems interrupt handling
+- [2026-02-04 020] study: embedded systems interrupt handling
