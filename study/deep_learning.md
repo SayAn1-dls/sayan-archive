@@ -47,3 +47,4 @@
 - [2026-02-04 007] practice: solved two-sum variants
 - [2026-02-05 007] practice: solved two-sum variants
 - [2026-02-06 007] practice: solved two-sum variants
+- [2026-02-07 007] practice: solved two-sum variants
