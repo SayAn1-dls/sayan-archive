@@ -50,3 +50,4 @@
 - [2026-02-07 007] practice: solved two-sum variants
 - [2026-02-08 007] practice: solved two-sum variants
 - [2026-02-09 007] practice: solved two-sum variants
+- [2026-02-09 027] fix: resolve edge case in data pipeline
