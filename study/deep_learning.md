@@ -49,3 +49,4 @@
 - [2026-02-06 007] practice: solved two-sum variants
 - [2026-02-07 007] practice: solved two-sum variants
 - [2026-02-08 007] practice: solved two-sum variants
+- [2026-02-09 007] practice: solved two-sum variants
