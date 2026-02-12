@@ -32,3 +32,4 @@
 - [2026-02-04 016] practice: binary search tree problems
 - [2026-02-09 016] practice: binary search tree problems
 - [2026-02-10 016] practice: binary search tree problems
+- [2026-02-12 016] practice: binary search tree problems
