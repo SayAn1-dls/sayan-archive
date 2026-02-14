@@ -45,3 +45,4 @@
 - [2026-02-10 010] research: links on transformer attention
 - [2026-02-12 010] research: links on transformer attention
 - [2026-02-12 030] test: add unit tests for parser
+- [2026-02-14 010] research: links on transformer attention
