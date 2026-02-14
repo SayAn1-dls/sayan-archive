@@ -44,3 +44,4 @@
 - [2026-02-12 031] study: notes on backpropagation
 - [2026-02-14 011] journal: daily progress log
 - [2026-02-14 031] study: notes on backpropagation
+- [2026-02-14 051] feat: implement core detection module
