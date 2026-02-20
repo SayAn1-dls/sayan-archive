@@ -47,3 +47,4 @@
 - [2026-02-15 053] docs: update architecture notes
 - [2026-02-17 013] feat: add retry logic for failed jobs
 - [2026-02-18 013] feat: add retry logic for failed jobs
+- [2026-02-20 013] feat: add retry logic for failed jobs
