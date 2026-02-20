@@ -68,3 +68,4 @@
 - [2026-02-17 006] study: notes on backpropagation
 - [2026-02-18 006] study: notes on backpropagation
 - [2026-02-19 006] study: notes on backpropagation
+- [2026-02-20 006] study: notes on backpropagation
