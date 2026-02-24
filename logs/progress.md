@@ -94,3 +94,4 @@
 - [2026-02-22 041] practice: binary search tree problems
 - [2026-02-22 061] journal: daily progress log
 - [2026-02-23 001] feat: implement core detection module
+- [2026-02-24 001] feat: implement core detection module
