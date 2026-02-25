@@ -80,3 +80,4 @@
 - [2026-02-22 045] study: embedded systems interrupt handling
 - [2026-02-23 005] test: add unit tests for parser
 - [2026-02-24 005] test: add unit tests for parser
+- [2026-02-25 005] test: add unit tests for parser
