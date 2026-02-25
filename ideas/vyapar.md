@@ -76,3 +76,4 @@
 - [2026-02-22 046] fix: race condition in async queue
 - [2026-02-23 006] study: notes on backpropagation
 - [2026-02-24 006] study: notes on backpropagation
+- [2026-02-25 006] study: notes on backpropagation
