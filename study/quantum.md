@@ -69,3 +69,4 @@
 - [2026-02-22 048] journal: weekly review and planning
 - [2026-02-23 008] feat: add webhook support to alerting
 - [2026-02-24 008] feat: add webhook support to alerting
+- [2026-02-25 008] feat: add webhook support to alerting
