@@ -53,3 +53,4 @@
 - [2026-02-22 054] refactor: extract utility functions
 - [2026-02-25 014] docs: document API endpoints
 - [2026-02-27 014] docs: document API endpoints
+- [2026-02-27 034] chore: update config and env schema
