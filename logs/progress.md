@@ -99,3 +99,4 @@
 - [2026-02-25 021] fix: race condition in async queue
 - [2026-02-26 001] feat: implement core detection module
 - [2026-02-27 001] feat: implement core detection module
+- [2026-02-27 021] fix: race condition in async queue
