@@ -46,3 +46,4 @@
 - [2026-02-22 058] feat: add webhook support to alerting
 - [2026-02-25 018] feat: add rate limiting middleware
 - [2026-02-27 018] feat: add rate limiting middleware
+- [2026-03-01 018] feat: add rate limiting middleware
