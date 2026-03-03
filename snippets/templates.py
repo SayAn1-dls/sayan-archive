@@ -43,3 +43,4 @@
 - [2026-02-22 060] research: links on transformer attention
 - [2026-02-25 020] study: embedded systems interrupt handling
 - [2026-02-27 020] study: embedded systems interrupt handling
+- [2026-03-03 020] study: embedded systems interrupt handling
