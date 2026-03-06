@@ -62,3 +62,4 @@
 - [2026-03-04 014] docs: document API endpoints
 - [2026-03-05 014] docs: document API endpoints
 - [2026-03-05 034] chore: update config and env schema
+- [2026-03-06 014] docs: document API endpoints
