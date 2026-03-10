@@ -73,3 +73,4 @@
 - [2026-03-09 073] journal: weekly review and planning
 - [2026-03-09 093] feat: add rate limiting middleware
 - [2026-03-10 013] feat: add retry logic for failed jobs
+- [2026-03-10 033] feat: add webhook support to alerting
