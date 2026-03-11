@@ -61,3 +61,4 @@
 - [2026-03-09 098] journal: weekly review and planning
 - [2026-03-10 018] feat: add rate limiting middleware
 - [2026-03-10 038] feat: add retry logic for failed jobs
+- [2026-03-11 018] feat: add rate limiting middleware
