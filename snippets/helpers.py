@@ -58,3 +58,4 @@
 - [2026-03-09 099] research: game theory Nash equilibrium notes
 - [2026-03-10 019] docs: update deployment guide
 - [2026-03-10 039] docs: document API endpoints
+- [2026-03-11 019] docs: update deployment guide
