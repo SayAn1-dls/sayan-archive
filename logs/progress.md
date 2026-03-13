@@ -128,3 +128,4 @@
 - [2026-03-12 041] practice: binary search tree problems
 - [2026-03-12 061] journal: daily progress log
 - [2026-03-13 001] feat: implement core detection module
+- [2026-03-13 021] fix: race condition in async queue
