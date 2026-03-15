@@ -94,3 +94,4 @@
 - [2026-03-12 069] docs: update deployment guide
 - [2026-03-13 009] chore: update config and env schema
 - [2026-03-14 009] chore: update config and env schema
+- [2026-03-15 009] chore: update config and env schema
