@@ -103,3 +103,4 @@
 - [2026-03-13 007] practice: solved two-sum variants
 - [2026-03-14 007] practice: solved two-sum variants
 - [2026-03-15 007] practice: solved two-sum variants
+- [2026-03-16 007] practice: solved two-sum variants
