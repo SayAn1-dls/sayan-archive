@@ -70,3 +70,4 @@
 - [2026-03-12 057] practice: solved two-sum variants
 - [2026-03-13 017] refactor: clean up ML pipeline code
 - [2026-03-17 017] refactor: clean up ML pipeline code
+- [2026-03-17 037] fix: handle null pointer in validator
