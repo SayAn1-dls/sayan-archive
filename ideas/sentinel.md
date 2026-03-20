@@ -123,3 +123,4 @@
 - [2026-03-18 004] refactor: extract utility functions
 - [2026-03-20 004] refactor: extract utility functions
 - [2026-03-20 024] research: game theory Nash equilibrium notes
+- [2026-03-20 044] docs: update deployment guide
