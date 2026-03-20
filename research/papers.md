@@ -75,3 +75,4 @@
 - [2026-03-18 016] practice: binary search tree problems
 - [2026-03-20 016] practice: binary search tree problems
 - [2026-03-20 036] journal: daily progress log
+- [2026-03-20 056] study: notes on backpropagation
