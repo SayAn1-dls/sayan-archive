@@ -95,3 +95,4 @@
 - [2026-03-23 053] docs: update architecture notes
 - [2026-03-23 073] journal: weekly review and planning
 - [2026-03-24 013] feat: add retry logic for failed jobs
+- [2026-03-25 013] feat: add retry logic for failed jobs
