@@ -117,3 +117,4 @@
 - [2026-03-24 008] feat: add webhook support to alerting
 - [2026-03-25 008] feat: add webhook support to alerting
 - [2026-03-25 028] docs: update architecture notes
+- [2026-03-25 048] journal: weekly review and planning
