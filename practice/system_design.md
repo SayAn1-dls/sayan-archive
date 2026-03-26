@@ -103,3 +103,4 @@
 - [2026-03-25 031] study: notes on backpropagation
 - [2026-03-25 051] feat: implement core detection module
 - [2026-03-25 071] fix: race condition in async queue
+- [2026-03-26 011] journal: daily progress log
