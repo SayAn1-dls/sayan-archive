@@ -122,3 +122,4 @@
 - [2026-03-25 088] feat: add retry logic for failed jobs
 - [2026-03-26 008] feat: add webhook support to alerting
 - [2026-03-27 008] feat: add webhook support to alerting
+- [2026-03-27 028] docs: update architecture notes
