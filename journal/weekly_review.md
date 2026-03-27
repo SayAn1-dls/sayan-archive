@@ -92,3 +92,4 @@
 - [2026-03-25 055] test: add unit tests for parser
 - [2026-03-25 075] practice: dynamic programming patterns
 - [2026-03-26 015] study: quantum entanglement chapter notes
+- [2026-03-27 015] study: quantum entanglement chapter notes
