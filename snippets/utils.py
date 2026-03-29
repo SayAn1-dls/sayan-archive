@@ -87,3 +87,4 @@
 - [2026-03-26 018] feat: add rate limiting middleware
 - [2026-03-27 018] feat: add rate limiting middleware
 - [2026-03-27 038] feat: add retry logic for failed jobs
+- [2026-03-29 018] feat: add rate limiting middleware
