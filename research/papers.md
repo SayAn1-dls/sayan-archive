@@ -91,3 +91,4 @@
 - [2026-03-27 016] practice: binary search tree problems
 - [2026-03-27 036] journal: daily progress log
 - [2026-03-29 016] practice: binary search tree problems
+- [2026-03-29 036] journal: daily progress log
