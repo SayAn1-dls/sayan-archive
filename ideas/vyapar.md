@@ -143,3 +143,4 @@
 - [2026-03-30 046] fix: race condition in async queue
 - [2026-03-30 066] practice: binary search tree problems
 - [2026-03-30 086] journal: daily progress log
+- [2026-03-31 006] study: notes on backpropagation
