@@ -120,3 +120,4 @@
 - [2026-03-30 050] practice: dynamic programming patterns
 - [2026-03-30 070] study: embedded systems interrupt handling
 - [2026-03-30 090] study: quantum entanglement chapter notes
+- [2026-03-31 010] research: links on transformer attention
