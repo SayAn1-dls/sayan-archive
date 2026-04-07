@@ -159,3 +159,4 @@
 - [2026-04-04 045] study: embedded systems interrupt handling
 - [2026-04-04 065] study: quantum entanglement chapter notes
 - [2026-04-05 005] test: add unit tests for parser
+- [2026-04-07 005] test: add unit tests for parser
