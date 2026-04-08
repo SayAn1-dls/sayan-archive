@@ -165,3 +165,4 @@
 - [2026-04-04 064] docs: document API endpoints
 - [2026-04-05 004] refactor: extract utility functions
 - [2026-04-07 004] refactor: extract utility functions
+- [2026-04-08 004] refactor: extract utility functions
