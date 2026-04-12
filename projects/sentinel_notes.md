@@ -124,3 +124,4 @@
 - [2026-04-11 032] practice: solved two-sum variants
 - [2026-04-11 052] fix: resolve edge case in data pipeline
 - [2026-04-11 072] feat: add encryption to data store
+- [2026-04-12 012] fix: handle null pointer in validator
