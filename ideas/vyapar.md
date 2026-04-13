@@ -158,3 +158,4 @@
 - [2026-04-11 046] fix: race condition in async queue
 - [2026-04-11 066] practice: binary search tree problems
 - [2026-04-12 006] study: notes on backpropagation
+- [2026-04-13 006] study: notes on backpropagation
