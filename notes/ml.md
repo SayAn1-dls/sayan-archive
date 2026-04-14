@@ -178,3 +178,4 @@
 - [2026-04-11 063] feat: add retry logic for failed jobs
 - [2026-04-12 003] docs: update architecture notes
 - [2026-04-13 003] docs: update architecture notes
+- [2026-04-14 003] docs: update architecture notes
