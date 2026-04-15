@@ -155,3 +155,4 @@
 - [2026-04-12 007] practice: solved two-sum variants
 - [2026-04-13 007] practice: solved two-sum variants
 - [2026-04-14 007] practice: solved two-sum variants
+- [2026-04-15 007] practice: solved two-sum variants
