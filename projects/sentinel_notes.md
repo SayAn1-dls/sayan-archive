@@ -126,3 +126,4 @@
 - [2026-04-11 072] feat: add encryption to data store
 - [2026-04-12 012] fix: handle null pointer in validator
 - [2026-04-14 012] fix: handle null pointer in validator
+- [2026-04-16 012] fix: handle null pointer in validator
