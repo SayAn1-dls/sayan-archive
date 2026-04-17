@@ -158,3 +158,4 @@
 - [2026-04-15 007] practice: solved two-sum variants
 - [2026-04-16 007] practice: solved two-sum variants
 - [2026-04-17 007] practice: solved two-sum variants
+- [2026-04-17 027] fix: resolve edge case in data pipeline
