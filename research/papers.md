@@ -111,3 +111,4 @@
 - [2026-04-11 076] feat: implement core detection module
 - [2026-04-12 016] practice: binary search tree problems
 - [2026-04-14 016] practice: binary search tree problems
+- [2026-04-17 016] practice: binary search tree problems
