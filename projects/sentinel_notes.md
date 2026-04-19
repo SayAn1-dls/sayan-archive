@@ -129,3 +129,4 @@
 - [2026-04-16 012] fix: handle null pointer in validator
 - [2026-04-17 012] fix: handle null pointer in validator
 - [2026-04-17 032] practice: solved two-sum variants
+- [2026-04-19 012] fix: handle null pointer in validator
