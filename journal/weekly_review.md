@@ -117,3 +117,4 @@
 - [2026-04-14 015] study: quantum entanglement chapter notes
 - [2026-04-17 015] study: quantum entanglement chapter notes
 - [2026-04-17 035] research: links on transformer attention
+- [2026-04-19 015] study: quantum entanglement chapter notes
