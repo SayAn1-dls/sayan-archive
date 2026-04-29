@@ -167,3 +167,4 @@
 - [2026-04-22 007] practice: solved two-sum variants
 - [2026-04-24 007] practice: solved two-sum variants
 - [2026-04-26 007] practice: solved two-sum variants
+- [2026-04-29 007] practice: solved two-sum variants
