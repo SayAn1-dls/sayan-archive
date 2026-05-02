@@ -156,3 +156,4 @@
 - [2026-04-29 009] chore: update config and env schema
 - [2026-04-29 029] refactor: extract utility functions
 - [2026-04-30 009] chore: update config and env schema
+- [2026-05-02 009] chore: update config and env schema
