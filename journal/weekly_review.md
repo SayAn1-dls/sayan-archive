@@ -131,3 +131,4 @@
 - [2026-05-02 055] test: add unit tests for parser
 - [2026-05-02 075] practice: dynamic programming patterns
 - [2026-05-03 015] study: quantum entanglement chapter notes
+- [2026-05-03 035] research: links on transformer attention
