@@ -189,3 +189,4 @@
 - [2026-05-05 006] study: notes on backpropagation
 - [2026-05-06 006] study: notes on backpropagation
 - [2026-05-06 026] feat: implement core detection module
+- [2026-05-06 046] fix: race condition in async queue
