@@ -179,3 +179,4 @@
 - [2026-05-07 008] feat: add webhook support to alerting
 - [2026-05-08 008] feat: add webhook support to alerting
 - [2026-05-09 008] feat: add webhook support to alerting
+- [2026-05-09 028] docs: update architecture notes
