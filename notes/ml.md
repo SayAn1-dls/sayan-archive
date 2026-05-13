@@ -229,3 +229,4 @@
 - [2026-05-11 083] feat: add webhook support to alerting
 - [2026-05-12 003] docs: update architecture notes
 - [2026-05-12 023] journal: weekly review and planning
+- [2026-05-13 003] docs: update architecture notes
