@@ -148,3 +148,4 @@
 - [2026-05-11 075] practice: dynamic programming patterns
 - [2026-05-12 015] study: quantum entanglement chapter notes
 - [2026-05-12 035] research: links on transformer attention
+- [2026-05-15 015] study: quantum entanglement chapter notes
