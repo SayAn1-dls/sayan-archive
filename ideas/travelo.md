@@ -221,3 +221,4 @@
 - [2026-05-18 005] test: add unit tests for parser
 - [2026-05-19 005] test: add unit tests for parser
 - [2026-05-22 005] test: add unit tests for parser
+- [2026-05-22 025] practice: dynamic programming patterns
