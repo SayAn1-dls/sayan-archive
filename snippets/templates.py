@@ -119,3 +119,4 @@
 - [2026-05-11 080] test: add unit tests for parser
 - [2026-05-12 020] study: embedded systems interrupt handling
 - [2026-05-22 020] study: embedded systems interrupt handling
+- [2026-05-23 020] study: embedded systems interrupt handling
