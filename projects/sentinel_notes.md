@@ -164,3 +164,4 @@
 - [2026-05-18 012] fix: handle null pointer in validator
 - [2026-05-22 012] fix: handle null pointer in validator
 - [2026-05-23 012] fix: handle null pointer in validator
+- [2026-05-24 012] fix: handle null pointer in validator
