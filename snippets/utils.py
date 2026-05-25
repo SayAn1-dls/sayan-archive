@@ -140,3 +140,4 @@
 - [2026-05-22 018] feat: add rate limiting middleware
 - [2026-05-23 018] feat: add rate limiting middleware
 - [2026-05-24 018] feat: add rate limiting middleware
+- [2026-05-25 018] feat: add rate limiting middleware
