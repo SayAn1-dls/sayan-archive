@@ -131,3 +131,4 @@
 - [2026-05-22 019] docs: update deployment guide
 - [2026-05-23 019] docs: update deployment guide
 - [2026-05-24 019] docs: update deployment guide
+- [2026-05-25 019] docs: update deployment guide
