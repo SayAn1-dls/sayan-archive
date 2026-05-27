@@ -159,3 +159,4 @@
 - [2026-05-23 014] docs: document API endpoints
 - [2026-05-24 014] docs: document API endpoints
 - [2026-05-25 014] docs: document API endpoints
+- [2026-05-27 014] docs: document API endpoints
