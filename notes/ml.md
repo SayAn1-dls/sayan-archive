@@ -245,3 +245,4 @@
 - [2026-05-26 003] docs: update architecture notes
 - [2026-05-27 003] docs: update architecture notes
 - [2026-05-28 003] docs: update architecture notes
+- [2026-05-29 003] docs: update architecture notes
