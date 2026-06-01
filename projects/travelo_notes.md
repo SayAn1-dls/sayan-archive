@@ -167,3 +167,4 @@
 - [2026-05-27 013] feat: add retry logic for failed jobs
 - [2026-05-30 013] feat: add retry logic for failed jobs
 - [2026-05-31 013] feat: add retry logic for failed jobs
+- [2026-06-01 013] feat: add retry logic for failed jobs
