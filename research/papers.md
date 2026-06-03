@@ -152,3 +152,4 @@
 - [2026-05-27 016] practice: binary search tree problems
 - [2026-05-31 016] practice: binary search tree problems
 - [2026-06-01 016] practice: binary search tree problems
+- [2026-06-03 016] practice: binary search tree problems
