@@ -123,3 +123,4 @@
 - [2026-05-24 020] study: embedded systems interrupt handling
 - [2026-05-25 020] study: embedded systems interrupt handling
 - [2026-05-31 020] study: embedded systems interrupt handling
+- [2026-06-03 020] study: embedded systems interrupt handling
