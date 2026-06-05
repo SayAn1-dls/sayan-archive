@@ -139,3 +139,4 @@
 - [2026-06-04 019] docs: update deployment guide
 - [2026-06-05 019] docs: update deployment guide
 - [2026-06-05 039] docs: document API endpoints
+- [2026-06-05 059] chore: update config and env schema
