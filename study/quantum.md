@@ -210,3 +210,4 @@
 - [2026-06-05 028] docs: update architecture notes
 - [2026-06-05 048] journal: weekly review and planning
 - [2026-06-05 068] feat: add rate limiting middleware
+- [2026-06-06 008] feat: add webhook support to alerting
