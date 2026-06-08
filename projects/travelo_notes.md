@@ -177,3 +177,4 @@
 - [2026-06-05 073] journal: weekly review and planning
 - [2026-06-06 013] feat: add retry logic for failed jobs
 - [2026-06-08 013] feat: add retry logic for failed jobs
+- [2026-06-08 033] feat: add webhook support to alerting
