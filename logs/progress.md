@@ -280,3 +280,4 @@
 - [2026-06-05 061] journal: daily progress log
 - [2026-06-06 001] feat: implement core detection module
 - [2026-06-07 001] feat: implement core detection module
+- [2026-06-08 001] feat: implement core detection module
