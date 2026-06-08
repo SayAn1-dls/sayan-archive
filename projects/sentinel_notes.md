@@ -178,3 +178,4 @@
 - [2026-06-05 052] fix: resolve edge case in data pipeline
 - [2026-06-05 072] feat: add encryption to data store
 - [2026-06-06 012] fix: handle null pointer in validator
+- [2026-06-08 012] fix: handle null pointer in validator
