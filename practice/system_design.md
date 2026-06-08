@@ -183,3 +183,4 @@
 - [2026-06-05 071] fix: race condition in async queue
 - [2026-06-06 011] journal: daily progress log
 - [2026-06-08 011] journal: daily progress log
+- [2026-06-08 031] study: notes on backpropagation
