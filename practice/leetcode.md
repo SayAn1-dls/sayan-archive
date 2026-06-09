@@ -195,3 +195,4 @@
 - [2026-06-08 010] research: links on transformer attention
 - [2026-06-08 030] test: add unit tests for parser
 - [2026-06-08 050] practice: dynamic programming patterns
+- [2026-06-09 010] research: links on transformer attention
