@@ -197,3 +197,4 @@
 - [2026-06-08 050] practice: dynamic programming patterns
 - [2026-06-09 010] research: links on transformer attention
 - [2026-06-10 010] research: links on transformer attention
+- [2026-06-11 010] research: links on transformer attention
