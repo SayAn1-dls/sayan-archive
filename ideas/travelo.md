@@ -251,3 +251,4 @@
 - [2026-06-11 025] practice: dynamic programming patterns
 - [2026-06-12 005] test: add unit tests for parser
 - [2026-06-12 025] practice: dynamic programming patterns
+- [2026-06-12 045] study: embedded systems interrupt handling
