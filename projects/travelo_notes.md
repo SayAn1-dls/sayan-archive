@@ -185,3 +185,4 @@
 - [2026-06-12 013] feat: add retry logic for failed jobs
 - [2026-06-12 033] feat: add webhook support to alerting
 - [2026-06-12 053] docs: update architecture notes
+- [2026-06-12 073] journal: weekly review and planning
