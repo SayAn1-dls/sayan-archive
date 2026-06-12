@@ -192,3 +192,4 @@
 - [2026-06-12 031] study: notes on backpropagation
 - [2026-06-12 051] feat: implement core detection module
 - [2026-06-12 071] fix: race condition in async queue
+- [2026-06-12 091] practice: binary search tree problems
