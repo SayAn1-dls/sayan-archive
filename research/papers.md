@@ -171,3 +171,4 @@
 - [2026-06-12 096] fix: race condition in async queue
 - [2026-06-13 016] practice: binary search tree problems
 - [2026-06-14 016] practice: binary search tree problems
+- [2026-06-14 036] journal: daily progress log
