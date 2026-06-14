@@ -152,3 +152,4 @@
 - [2026-06-12 079] refactor: extract utility functions
 - [2026-06-13 019] docs: update deployment guide
 - [2026-06-14 019] docs: update deployment guide
+- [2026-06-14 039] docs: document API endpoints
