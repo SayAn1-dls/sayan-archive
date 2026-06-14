@@ -162,3 +162,4 @@
 - [2026-06-12 078] docs: update architecture notes
 - [2026-06-13 018] feat: add rate limiting middleware
 - [2026-06-14 018] feat: add rate limiting middleware
+- [2026-06-14 038] feat: add retry logic for failed jobs
