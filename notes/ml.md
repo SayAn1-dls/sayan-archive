@@ -283,3 +283,4 @@
 - [2026-06-18 003] docs: update architecture notes
 - [2026-06-18 023] journal: weekly review and planning
 - [2026-06-19 003] docs: update architecture notes
+- [2026-06-20 003] docs: update architecture notes
