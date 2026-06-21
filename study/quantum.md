@@ -229,3 +229,4 @@
 - [2026-06-15 008] feat: add webhook support to alerting
 - [2026-06-18 008] feat: add webhook support to alerting
 - [2026-06-19 008] feat: add webhook support to alerting
+- [2026-06-21 008] feat: add webhook support to alerting
