@@ -178,3 +178,4 @@
 - [2026-06-22 056] study: notes on backpropagation
 - [2026-06-25 016] practice: binary search tree problems
 - [2026-06-27 016] practice: binary search tree problems
+- [2026-06-29 016] practice: binary search tree problems
