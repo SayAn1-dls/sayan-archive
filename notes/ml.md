@@ -296,3 +296,4 @@
 - [2026-06-28 003] docs: update architecture notes
 - [2026-06-29 003] docs: update architecture notes
 - [2026-06-30 003] docs: update architecture notes
+- [2026-07-01 003] docs: update architecture notes
