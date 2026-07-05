@@ -265,3 +265,4 @@
 - [2026-07-02 026] feat: implement core detection module
 - [2026-07-02 046] fix: race condition in async queue
 - [2026-07-04 006] study: notes on backpropagation
+- [2026-07-05 006] study: notes on backpropagation
