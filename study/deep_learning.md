@@ -255,3 +255,4 @@
 - [2026-07-04 007] practice: solved two-sum variants
 - [2026-07-05 007] practice: solved two-sum variants
 - [2026-07-06 007] practice: solved two-sum variants
+- [2026-07-07 007] practice: solved two-sum variants
