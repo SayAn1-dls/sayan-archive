@@ -154,3 +154,4 @@
 - [2026-07-08 020] study: embedded systems interrupt handling
 - [2026-07-08 040] study: quantum entanglement chapter notes
 - [2026-07-09 020] study: embedded systems interrupt handling
+- [2026-07-11 020] study: embedded systems interrupt handling
