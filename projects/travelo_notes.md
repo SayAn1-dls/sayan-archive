@@ -210,3 +210,4 @@
 - [2026-07-09 013] feat: add retry logic for failed jobs
 - [2026-07-10 013] feat: add retry logic for failed jobs
 - [2026-07-11 013] feat: add retry logic for failed jobs
+- [2026-07-11 033] feat: add webhook support to alerting
