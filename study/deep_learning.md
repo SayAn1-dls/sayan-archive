@@ -265,3 +265,4 @@
 - [2026-07-09 007] practice: solved two-sum variants
 - [2026-07-10 007] practice: solved two-sum variants
 - [2026-07-11 007] practice: solved two-sum variants
+- [2026-07-11 027] fix: resolve edge case in data pipeline
