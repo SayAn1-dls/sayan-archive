@@ -345,3 +345,4 @@
 - [2026-07-12 021] fix: race condition in async queue
 - [2026-07-12 041] practice: binary search tree problems
 - [2026-07-12 061] journal: daily progress log
+- [2026-07-12 081] study: notes on backpropagation
