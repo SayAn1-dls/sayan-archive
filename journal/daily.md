@@ -207,3 +207,4 @@
 - [2026-07-12 014] docs: document API endpoints
 - [2026-07-12 034] chore: update config and env schema
 - [2026-07-12 054] refactor: extract utility functions
+- [2026-07-12 074] research: game theory Nash equilibrium notes
