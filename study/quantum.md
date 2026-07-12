@@ -261,3 +261,4 @@
 - [2026-07-12 028] docs: update architecture notes
 - [2026-07-12 048] journal: weekly review and planning
 - [2026-07-12 068] feat: add rate limiting middleware
+- [2026-07-12 088] feat: add retry logic for failed jobs
