@@ -196,3 +196,4 @@
 - [2026-07-12 036] journal: daily progress log
 - [2026-07-12 056] study: notes on backpropagation
 - [2026-07-12 076] feat: implement core detection module
+- [2026-07-13 016] practice: binary search tree problems
