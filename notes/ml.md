@@ -327,3 +327,4 @@
 - [2026-07-13 043] feat: add rate limiting middleware
 - [2026-07-14 003] docs: update architecture notes
 - [2026-07-14 023] journal: weekly review and planning
+- [2026-07-14 043] feat: add rate limiting middleware
