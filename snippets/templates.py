@@ -166,3 +166,4 @@
 - [2026-07-14 020] study: embedded systems interrupt handling
 - [2026-07-14 040] study: quantum entanglement chapter notes
 - [2026-07-14 060] research: links on transformer attention
+- [2026-07-15 020] study: embedded systems interrupt handling
