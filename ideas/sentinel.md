@@ -322,3 +322,4 @@
 - [2026-07-17 004] refactor: extract utility functions
 - [2026-07-17 024] research: game theory Nash equilibrium notes
 - [2026-07-17 044] docs: update deployment guide
+- [2026-07-17 064] docs: document API endpoints
