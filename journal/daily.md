@@ -224,3 +224,4 @@
 - [2026-07-18 074] research: game theory Nash equilibrium notes
 - [2026-07-18 094] docs: update deployment guide
 - [2026-07-20 014] docs: document API endpoints
+- [2026-07-20 034] chore: update config and env schema
