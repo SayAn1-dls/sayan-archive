@@ -292,3 +292,4 @@
 - [2026-07-18 087] fix: handle null pointer in validator
 - [2026-07-19 007] practice: solved two-sum variants
 - [2026-07-20 007] practice: solved two-sum variants
+- [2026-07-20 027] fix: resolve edge case in data pipeline
