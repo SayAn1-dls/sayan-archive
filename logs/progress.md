@@ -374,3 +374,4 @@
 - [2026-07-21 061] journal: daily progress log
 - [2026-07-22 001] feat: implement core detection module
 - [2026-07-23 001] feat: implement core detection module
+- [2026-07-23 021] fix: race condition in async queue
