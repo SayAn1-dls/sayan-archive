@@ -263,3 +263,4 @@
 - [2026-07-21 050] practice: dynamic programming patterns
 - [2026-07-21 070] study: embedded systems interrupt handling
 - [2026-07-22 010] research: links on transformer attention
+- [2026-07-23 010] research: links on transformer attention
