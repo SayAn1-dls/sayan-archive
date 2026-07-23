@@ -223,3 +223,4 @@
 - [2026-07-21 035] research: links on transformer attention
 - [2026-07-21 055] test: add unit tests for parser
 - [2026-07-23 015] study: quantum entanglement chapter notes
+- [2026-07-23 035] research: links on transformer attention
