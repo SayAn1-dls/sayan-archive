@@ -351,3 +351,4 @@
 - [2026-07-22 003] docs: update architecture notes
 - [2026-07-23 003] docs: update architecture notes
 - [2026-07-23 023] journal: weekly review and planning
+- [2026-07-24 003] docs: update architecture notes
