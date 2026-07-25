@@ -267,3 +267,4 @@
 - [2026-07-23 030] test: add unit tests for parser
 - [2026-07-24 010] research: links on transformer attention
 - [2026-07-25 010] research: links on transformer attention
+- [2026-07-25 030] test: add unit tests for parser
