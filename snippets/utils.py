@@ -210,3 +210,4 @@
 - [2026-07-29 058] feat: add webhook support to alerting
 - [2026-07-29 078] docs: update architecture notes
 - [2026-07-30 018] feat: add rate limiting middleware
+- [2026-07-31 018] feat: add rate limiting middleware
