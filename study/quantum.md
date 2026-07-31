@@ -299,3 +299,4 @@
 - [2026-07-29 048] journal: weekly review and planning
 - [2026-07-29 068] feat: add rate limiting middleware
 - [2026-07-30 008] feat: add webhook support to alerting
+- [2026-07-31 008] feat: add webhook support to alerting
