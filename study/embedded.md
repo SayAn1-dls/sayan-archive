@@ -285,3 +285,4 @@
 - [2026-07-29 049] research: game theory Nash equilibrium notes
 - [2026-07-29 069] docs: update deployment guide
 - [2026-07-30 009] chore: update config and env schema
+- [2026-07-31 009] chore: update config and env schema
