@@ -338,3 +338,4 @@
 - [2026-07-29 065] study: quantum entanglement chapter notes
 - [2026-07-30 005] test: add unit tests for parser
 - [2026-07-31 005] test: add unit tests for parser
+- [2026-08-01 005] test: add unit tests for parser
