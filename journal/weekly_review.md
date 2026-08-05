@@ -231,3 +231,4 @@
 - [2026-07-29 075] practice: dynamic programming patterns
 - [2026-07-30 015] study: quantum entanglement chapter notes
 - [2026-07-31 015] study: quantum entanglement chapter notes
+- [2026-08-05 015] study: quantum entanglement chapter notes
