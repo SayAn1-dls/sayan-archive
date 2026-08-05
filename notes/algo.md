@@ -379,3 +379,4 @@
 - [2026-08-03 002] fix: resolve edge case in data pipeline
 - [2026-08-04 002] fix: resolve edge case in data pipeline
 - [2026-08-05 002] fix: resolve edge case in data pipeline
+- [2026-08-05 022] feat: add encryption to data store
