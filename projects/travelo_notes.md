@@ -247,3 +247,4 @@
 - [2026-07-29 073] journal: weekly review and planning
 - [2026-07-30 013] feat: add retry logic for failed jobs
 - [2026-07-31 013] feat: add retry logic for failed jobs
+- [2026-08-05 013] feat: add retry logic for failed jobs
