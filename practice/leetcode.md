@@ -276,3 +276,4 @@
 - [2026-07-31 010] research: links on transformer attention
 - [2026-08-01 010] research: links on transformer attention
 - [2026-08-05 010] research: links on transformer attention
+- [2026-08-06 010] research: links on transformer attention
