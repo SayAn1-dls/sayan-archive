@@ -335,3 +335,4 @@
 - [2026-08-10 006] study: notes on backpropagation
 - [2026-08-11 006] study: notes on backpropagation
 - [2026-08-12 006] study: notes on backpropagation
+- [2026-08-12 026] feat: implement core detection module
