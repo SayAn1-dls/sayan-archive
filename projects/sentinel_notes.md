@@ -258,3 +258,4 @@
 - [2026-08-10 012] fix: handle null pointer in validator
 - [2026-08-11 012] fix: handle null pointer in validator
 - [2026-08-12 012] fix: handle null pointer in validator
+- [2026-08-13 012] fix: handle null pointer in validator
