@@ -232,3 +232,4 @@
 - [2026-08-11 016] practice: binary search tree problems
 - [2026-08-12 016] practice: binary search tree problems
 - [2026-08-14 016] practice: binary search tree problems
+- [2026-08-14 036] journal: daily progress log
