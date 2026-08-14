@@ -325,3 +325,4 @@
 - [2026-08-14 027] fix: resolve edge case in data pipeline
 - [2026-08-14 047] feat: add encryption to data store
 - [2026-08-14 067] refactor: clean up ML pipeline code
+- [2026-08-14 087] fix: handle null pointer in validator
