@@ -317,3 +317,4 @@
 - [2026-08-14 068] feat: add rate limiting middleware
 - [2026-08-14 088] feat: add retry logic for failed jobs
 - [2026-08-15 008] feat: add webhook support to alerting
+- [2026-08-16 008] feat: add webhook support to alerting
