@@ -244,3 +244,4 @@
 - [2026-08-14 075] practice: dynamic programming patterns
 - [2026-08-14 095] study: embedded systems interrupt handling
 - [2026-08-15 015] study: quantum entanglement chapter notes
+- [2026-08-16 015] study: quantum entanglement chapter notes
