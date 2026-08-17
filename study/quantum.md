@@ -320,3 +320,4 @@
 - [2026-08-16 008] feat: add webhook support to alerting
 - [2026-08-16 028] docs: update architecture notes
 - [2026-08-17 008] feat: add webhook support to alerting
+- [2026-08-17 028] docs: update architecture notes
