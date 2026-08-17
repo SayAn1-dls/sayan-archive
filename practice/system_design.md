@@ -274,3 +274,4 @@
 - [2026-08-15 011] journal: daily progress log
 - [2026-08-16 011] journal: daily progress log
 - [2026-08-17 011] journal: daily progress log
+- [2026-08-17 031] study: notes on backpropagation
