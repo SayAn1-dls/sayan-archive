@@ -194,3 +194,4 @@
 - [2026-08-14 100] practice: dynamic programming patterns
 - [2026-08-16 020] study: embedded systems interrupt handling
 - [2026-08-17 020] study: embedded systems interrupt handling
+- [2026-08-18 020] study: embedded systems interrupt handling
