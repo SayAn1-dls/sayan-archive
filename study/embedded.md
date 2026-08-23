@@ -313,3 +313,4 @@
 - [2026-08-22 009] chore: update config and env schema
 - [2026-08-22 029] refactor: extract utility functions
 - [2026-08-23 009] chore: update config and env schema
+- [2026-08-23 029] refactor: extract utility functions
