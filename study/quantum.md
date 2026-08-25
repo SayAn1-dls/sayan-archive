@@ -330,3 +330,4 @@
 - [2026-08-23 008] feat: add webhook support to alerting
 - [2026-08-23 028] docs: update architecture notes
 - [2026-08-24 008] feat: add webhook support to alerting
+- [2026-08-25 008] feat: add webhook support to alerting
