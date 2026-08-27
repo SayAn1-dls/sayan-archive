@@ -427,3 +427,4 @@
 - [2026-08-24 001] feat: implement core detection module
 - [2026-08-25 001] feat: implement core detection module
 - [2026-08-26 001] feat: implement core detection module
+- [2026-08-27 001] feat: implement core detection module
