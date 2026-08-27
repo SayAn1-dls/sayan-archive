@@ -401,3 +401,4 @@
 - [2026-08-24 003] docs: update architecture notes
 - [2026-08-25 003] docs: update architecture notes
 - [2026-08-26 003] docs: update architecture notes
+- [2026-08-27 003] docs: update architecture notes
