@@ -271,3 +271,4 @@
 - [2026-08-23 013] feat: add retry logic for failed jobs
 - [2026-08-24 013] feat: add retry logic for failed jobs
 - [2026-08-27 013] feat: add retry logic for failed jobs
+- [2026-08-28 013] feat: add retry logic for failed jobs
