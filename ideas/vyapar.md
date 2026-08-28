@@ -359,3 +359,4 @@
 - [2026-08-24 006] study: notes on backpropagation
 - [2026-08-25 006] study: notes on backpropagation
 - [2026-08-27 006] study: notes on backpropagation
+- [2026-08-28 006] study: notes on backpropagation
