@@ -388,3 +388,4 @@
 - [2026-08-26 004] refactor: extract utility functions
 - [2026-08-27 004] refactor: extract utility functions
 - [2026-08-28 004] refactor: extract utility functions
+- [2026-08-29 004] refactor: extract utility functions
