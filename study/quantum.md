@@ -333,3 +333,4 @@
 - [2026-08-25 008] feat: add webhook support to alerting
 - [2026-08-27 008] feat: add webhook support to alerting
 - [2026-08-28 008] feat: add webhook support to alerting
+- [2026-08-29 008] feat: add webhook support to alerting
