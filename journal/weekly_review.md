@@ -257,3 +257,4 @@
 - [2026-08-27 015] study: quantum entanglement chapter notes
 - [2026-08-28 015] study: quantum entanglement chapter notes
 - [2026-08-29 015] study: quantum entanglement chapter notes
+- [2026-08-30 015] study: quantum entanglement chapter notes
