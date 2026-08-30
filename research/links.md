@@ -241,3 +241,4 @@
 - [2026-08-27 017] refactor: clean up ML pipeline code
 - [2026-08-29 017] refactor: clean up ML pipeline code
 - [2026-08-30 017] refactor: clean up ML pipeline code
+- [2026-08-30 037] fix: handle null pointer in validator
