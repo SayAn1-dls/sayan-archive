@@ -220,3 +220,4 @@
 - [2026-08-22 019] docs: update deployment guide
 - [2026-08-23 019] docs: update deployment guide
 - [2026-08-27 019] docs: update deployment guide
+- [2026-08-30 019] docs: update deployment guide
