@@ -398,3 +398,5 @@
 - batch-118: feat: add Prometheus metrics endpoint
 
 - batch-133: fix: resolve CORS issue in REST API
+
+- batch-148: fix: patch memory leak in stream processor
