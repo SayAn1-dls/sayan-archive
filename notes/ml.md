@@ -415,3 +415,5 @@
 - batch-132: feat: add gRPC support for inter-service comms
 
 - batch-147: feat: add real-time dashboard support
+
+- batch-162: docs: add ML pipeline architecture diagram
