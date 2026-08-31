@@ -446,3 +446,5 @@
 - batch-145: feat: implement adaptive thresholding
 
 - batch-160: feat: add model compression for edge deployment
+
+- batch-160: feat: add model compression for edge deployment
