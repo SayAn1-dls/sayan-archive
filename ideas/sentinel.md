@@ -396,3 +396,5 @@
 - batch-103: refactor: modularize detection engine
 
 - batch-118: feat: add Prometheus metrics endpoint
+
+- batch-133: fix: resolve CORS issue in REST API
