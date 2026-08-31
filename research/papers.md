@@ -255,3 +255,5 @@
 
 ## docs: refresh API documentation
 - Implementation note for docs/api-update
+
+- batch-112: feat: add gRPC support for inter-service comms
