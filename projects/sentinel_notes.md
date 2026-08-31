@@ -285,3 +285,6 @@
 
 ## feat: improve detection algorithm
 - Implementation note for feat/detection-v2
+
+## feat: add webhook alerting
+- Implementation note for feat/alert-webhook
