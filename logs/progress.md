@@ -448,3 +448,5 @@
 - batch-160: feat: add model compression for edge deployment
 
 - batch-160: feat: add model compression for edge deployment
+
+- batch-175: feat: implement JWT refresh token rotation
