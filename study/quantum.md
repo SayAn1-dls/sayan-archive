@@ -340,3 +340,5 @@
 
 ## study: quantum computing chapter 3
 - Implementation note for study/quantum-notes
+
+- batch-107: feat: add real-time dashboard support
