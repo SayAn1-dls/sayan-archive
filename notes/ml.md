@@ -407,3 +407,5 @@
 - [2026-08-30 003] docs: update architecture notes
 - [2026-08-30 023] journal: weekly review and planning
 - [2026-08-31 003] docs: update architecture notes
+
+- batch-102: docs: add ML pipeline architecture diagram
