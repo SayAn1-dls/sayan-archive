@@ -303,3 +303,5 @@
 - batch-174: test: add load tests for 1000 concurrent users
 
 - batch-189: docs: document Vyapar payment flow
+
+- batch-204: test: add integration tests for API layer
