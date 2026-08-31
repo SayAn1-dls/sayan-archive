@@ -241,3 +241,5 @@
 
 ## feat: add AES encryption helper
 - Implementation note for feat/encryption
+
+- batch-110: feat: add multi-tenant support
