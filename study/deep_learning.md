@@ -350,3 +350,5 @@
 - [2026-08-31 007] practice: solved two-sum variants
 
 - batch-106: chore: upgrade core dependencies
+
+- batch-121: fix: improve input sanitization layer
