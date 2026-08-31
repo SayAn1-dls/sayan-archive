@@ -402,3 +402,5 @@
 - batch-148: fix: patch memory leak in stream processor
 
 - batch-163: refactor: modularize detection engine
+
+- batch-178: feat: add Prometheus metrics endpoint
