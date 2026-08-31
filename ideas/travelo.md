@@ -382,3 +382,5 @@
 
 ## feat: update Travelo UI components
 - Implementation note for feat/travelo-ui
+
+- batch-104: test: add integration tests for API layer
