@@ -238,3 +238,6 @@
 
 ## fix: handle null in validator
 - Implementation note for fix/validator-null
+
+## feat: add AES encryption helper
+- Implementation note for feat/encryption
