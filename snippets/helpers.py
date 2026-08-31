@@ -238,3 +238,5 @@
 - batch-171: refactor: split monolith into microservices
 
 - batch-186: chore: upgrade core dependencies
+
+- batch-201: fix: improve input sanitization layer
