@@ -409,3 +409,5 @@
 - [2026-08-31 003] docs: update architecture notes
 
 - batch-102: docs: add ML pipeline architecture diagram
+
+- batch-117: fix: handle timeout in external API calls
