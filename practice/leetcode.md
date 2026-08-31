@@ -311,3 +311,5 @@
 
 ## practice: dynamic programming patterns
 - Implementation note for practice/dp-patterns
+
+- batch-109: docs: document Vyapar payment flow
