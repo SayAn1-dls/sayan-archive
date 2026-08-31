@@ -424,3 +424,5 @@
 
 ## chore: update project dependencies
 - Implementation note for chore/deps-update
+
+- batch-101: fix: improve input sanitization layer
