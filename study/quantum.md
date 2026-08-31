@@ -342,3 +342,5 @@
 - Implementation note for study/quantum-notes
 
 - batch-107: feat: add real-time dashboard support
+
+- batch-122: docs: add ML pipeline architecture diagram
