@@ -434,3 +434,5 @@
 - batch-146: chore: upgrade core dependencies
 
 - batch-161: fix: improve input sanitization layer
+
+- batch-161: fix: improve input sanitization layer
