@@ -289,3 +289,5 @@
 ## feat: add webhook alerting
 - Implementation note for feat/alert-webhook
 ## Second collab feature
+
+- batch-114: test: add load tests for 1000 concurrent users
