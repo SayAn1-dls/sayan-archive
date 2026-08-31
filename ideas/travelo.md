@@ -392,3 +392,6 @@
 - batch-149: docs: document Vyapar payment flow
 
 - batch-164: test: add integration tests for API layer
+
+## feat: co-develop map integration for Travelo
+- Collaborative implementation
