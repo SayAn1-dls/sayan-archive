@@ -452,3 +452,5 @@
 - batch-175: feat: implement JWT refresh token rotation
 
 - batch-190: feat: add multi-tenant support
+
+- batch-205: feat: implement adaptive thresholding
