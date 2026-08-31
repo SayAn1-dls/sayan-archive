@@ -454,3 +454,5 @@
 - batch-190: feat: add multi-tenant support
 
 - batch-205: feat: implement adaptive thresholding
+
+- batch-205: feat: implement adaptive thresholding
