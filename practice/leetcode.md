@@ -313,3 +313,5 @@
 - Implementation note for practice/dp-patterns
 
 - batch-109: docs: document Vyapar payment flow
+
+- batch-124: test: add integration tests for API layer
