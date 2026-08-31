@@ -394,3 +394,5 @@
 - batch-164: test: add integration tests for API layer
 
 - batch-179: refactor: improve database query performance
+
+- batch-194: test: add load tests for 1000 concurrent users
