@@ -394,3 +394,5 @@
 - [2026-08-31 004] refactor: extract utility functions
 
 - batch-103: refactor: modularize detection engine
+
+- batch-118: feat: add Prometheus metrics endpoint
