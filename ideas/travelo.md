@@ -384,3 +384,5 @@
 - Implementation note for feat/travelo-ui
 
 - batch-104: test: add integration tests for API layer
+
+- batch-119: refactor: improve database query performance
