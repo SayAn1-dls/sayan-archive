@@ -260,3 +260,6 @@
 - [2026-08-30 015] study: quantum entanglement chapter notes
 - [2026-08-30 035] research: links on transformer attention
 - [2026-08-31 015] study: quantum entanglement chapter notes
+
+## journal: weekly review and planning
+- Implementation note for journal/week-review
