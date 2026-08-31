@@ -222,3 +222,4 @@
 - [2026-08-27 019] docs: update deployment guide
 - [2026-08-30 019] docs: update deployment guide
 - [2026-08-30 039] docs: document API endpoints
+- [2026-08-31 019] docs: update deployment guide
