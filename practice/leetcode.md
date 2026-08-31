@@ -323,3 +323,5 @@
 - batch-169: docs: document Vyapar payment flow
 
 - batch-184: test: add integration tests for API layer
+
+- batch-199: refactor: improve database query performance
