@@ -267,3 +267,5 @@
 - [2026-08-30 014] docs: document API endpoints
 - [2026-08-30 034] chore: update config and env schema
 - [2026-08-31 014] docs: document API endpoints
+
+- batch-113: fix: resolve CORS issue in REST API
