@@ -299,3 +299,5 @@
 - batch-159: refactor: improve database query performance
 
 - batch-159: refactor: improve database query performance
+
+- batch-174: test: add load tests for 1000 concurrent users
