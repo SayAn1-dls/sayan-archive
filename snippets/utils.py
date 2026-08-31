@@ -235,3 +235,6 @@
 - [2026-08-30 018] feat: add rate limiting middleware
 - [2026-08-30 038] feat: add retry logic for failed jobs
 - [2026-08-31 018] feat: add rate limiting middleware
+
+## fix: handle null in validator
+- Implementation note for fix/validator-null
