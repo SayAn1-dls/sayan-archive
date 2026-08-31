@@ -356,3 +356,5 @@
 - batch-136: docs: update onboarding guide
 
 - batch-151: refactor: split monolith into microservices
+
+- batch-166: chore: upgrade core dependencies
