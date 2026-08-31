@@ -396,3 +396,5 @@
 - batch-179: refactor: improve database query performance
 
 - batch-194: test: add load tests for 1000 concurrent users
+
+- batch-209: docs: document Vyapar payment flow
