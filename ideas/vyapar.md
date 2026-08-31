@@ -369,3 +369,5 @@
 - Implementation note for feat/vyapar-auth
 
 - batch-105: feat: implement adaptive thresholding
+
+- batch-120: feat: add model compression for edge deployment
