@@ -317,3 +317,5 @@
 - batch-124: test: add integration tests for API layer
 
 - batch-139: refactor: improve database query performance
+
+- batch-154: test: add load tests for 1000 concurrent users
