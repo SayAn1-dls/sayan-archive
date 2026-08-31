@@ -297,3 +297,5 @@
 - batch-144: test: add integration tests for API layer
 
 - batch-159: refactor: improve database query performance
+
+- batch-159: refactor: improve database query performance
