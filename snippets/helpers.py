@@ -232,3 +232,5 @@
 - batch-126: chore: upgrade core dependencies
 
 - batch-141: fix: improve input sanitization layer
+
+- batch-156: docs: update onboarding guide
