@@ -377,3 +377,6 @@
 - batch-150: feat: add multi-tenant support
 
 - batch-165: feat: implement adaptive thresholding
+
+## feat: collaborative invoice generation for Vyapar
+- Collaborative implementation
