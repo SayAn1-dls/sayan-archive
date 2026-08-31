@@ -436,3 +436,5 @@
 - batch-161: fix: improve input sanitization layer
 
 - batch-161: fix: improve input sanitization layer
+
+- batch-176: docs: update onboarding guide
