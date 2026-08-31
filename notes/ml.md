@@ -413,3 +413,5 @@
 - batch-117: fix: handle timeout in external API calls
 
 - batch-132: feat: add gRPC support for inter-service comms
+
+- batch-147: feat: add real-time dashboard support
