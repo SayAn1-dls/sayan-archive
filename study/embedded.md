@@ -322,3 +322,5 @@
 - [2026-08-30 009] chore: update config and env schema
 - [2026-08-30 029] refactor: extract utility functions
 - [2026-08-31 009] chore: update config and env schema
+
+- batch-108: fix: patch memory leak in stream processor
