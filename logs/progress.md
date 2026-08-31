@@ -444,3 +444,5 @@
 - batch-130: feat: add multi-tenant support
 
 - batch-145: feat: implement adaptive thresholding
+
+- batch-160: feat: add model compression for edge deployment
