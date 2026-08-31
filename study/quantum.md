@@ -352,3 +352,5 @@
 - batch-167: feat: add real-time dashboard support
 
 - batch-182: docs: add ML pipeline architecture diagram
+
+- batch-197: fix: handle timeout in external API calls
