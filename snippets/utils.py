@@ -243,3 +243,5 @@
 - Implementation note for feat/encryption
 
 - batch-110: feat: add multi-tenant support
+
+- batch-125: feat: implement adaptive thresholding
