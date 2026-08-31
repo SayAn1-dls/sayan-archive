@@ -440,3 +440,5 @@
 - batch-100: feat: add model compression for edge deployment
 
 - batch-115: feat: implement JWT refresh token rotation
+
+- batch-130: feat: add multi-tenant support
