@@ -332,3 +332,5 @@
 - batch-153: fix: resolve CORS issue in REST API
 
 - batch-168: fix: patch memory leak in stream processor
+
+- batch-183: refactor: modularize detection engine
