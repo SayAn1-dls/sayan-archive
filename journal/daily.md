@@ -277,3 +277,5 @@
 - batch-158: feat: add Prometheus metrics endpoint
 
 - batch-158: feat: add Prometheus metrics endpoint
+
+- batch-173: fix: resolve CORS issue in REST API
