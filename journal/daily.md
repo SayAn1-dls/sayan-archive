@@ -269,3 +269,5 @@
 - [2026-08-31 014] docs: document API endpoints
 
 - batch-113: fix: resolve CORS issue in REST API
+
+- batch-128: fix: patch memory leak in stream processor
