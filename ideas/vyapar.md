@@ -377,3 +377,5 @@
 - batch-150: feat: add multi-tenant support
 
 - batch-165: feat: implement adaptive thresholding
+
+- batch-180: feat: add model compression for edge deployment
