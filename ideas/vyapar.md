@@ -371,3 +371,5 @@
 - batch-105: feat: implement adaptive thresholding
 
 - batch-120: feat: add model compression for edge deployment
+
+- batch-135: feat: implement JWT refresh token rotation
