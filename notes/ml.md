@@ -419,3 +419,5 @@
 - batch-162: docs: add ML pipeline architecture diagram
 
 - batch-177: fix: handle timeout in external API calls
+
+- batch-192: feat: add gRPC support for inter-service comms
