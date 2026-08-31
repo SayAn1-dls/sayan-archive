@@ -257,3 +257,5 @@
 - Implementation note for docs/api-update
 
 - batch-112: feat: add gRPC support for inter-service comms
+
+- batch-127: feat: add real-time dashboard support
