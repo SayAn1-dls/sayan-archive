@@ -234,3 +234,5 @@
 - batch-141: fix: improve input sanitization layer
 
 - batch-156: docs: update onboarding guide
+
+- batch-171: refactor: split monolith into microservices
