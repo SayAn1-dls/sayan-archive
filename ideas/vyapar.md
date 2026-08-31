@@ -364,3 +364,6 @@
 - [2026-08-30 006] study: notes on backpropagation
 - [2026-08-30 026] feat: implement core detection module
 - [2026-08-31 006] study: notes on backpropagation
+
+## feat: add auth to Vyapar
+- Implementation note for feat/vyapar-auth
