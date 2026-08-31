@@ -223,3 +223,6 @@
 - [2026-08-30 019] docs: update deployment guide
 - [2026-08-30 039] docs: document API endpoints
 - [2026-08-31 019] docs: update deployment guide
+
+## fix: resolve async race condition
+- Implementation note for fix/race-condition
