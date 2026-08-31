@@ -291,3 +291,5 @@
 ## Second collab feature
 
 - batch-114: test: add load tests for 1000 concurrent users
+
+- batch-129: docs: document Vyapar payment flow
